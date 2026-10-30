@@ -24,11 +24,11 @@ Local: conserve todos los archivos en la misma carpeta y abra `index.html` en Ch
 - Paleta RGB: verde `rgb(22,101,52)`, coherente con el tema de huerto; contraste con texto blanco ≈ 7:1.
 
 ## Publicación
-Repositorio: [PEGAR URL DEL REPOSITORIO]
-Sitio GitHub Pages: [PEGAR URL QUE GITHUB MUESTRA]
+Repositorio: https://github.com/guevarafloresbrilli-cpu/planificador-kardex
+Sitio GitHub Pages: https://guevarafloresbrilli-cpu.github.io/planificador-kardex/
 
 ## Aportes y ayuda recibida
-Autora: Brilli Guevara Flores (trabajo individual ET505 · S9). Base: mi proyecto S7 y los «Fragmentos de integración ET505 · S9» entregados por el curso. Ayuda de IA: Claude (Anthropic), 30/10/2026, para integrar los fragmentos, proponer adaptaciones y ejecutar pruebas automáticas; el detalle está en el PDF entregado en MAXEDRA.
+Autora: Brilli Guevara Flores (trabajo individual ET505 · S9). Base: mi proyecto S7 y los «Fragmentos de integración ET505 · S9» entregados por el curso. Ayuda de IA: Claude (Anthropic), 30/10/2026, para integrar los fragmentos, proponer adaptaciones y ejecutar pruebas automáticas y guiarme en la publicación; probé yo misma la aplicación publicada el 30/10/2026. El detalle está en el PDF entregado en MAXEDRA.
 
 ## Límites
 - Datos ficticios. Los datos del kardex se guardan en `localStorage`: pertenecen sólo a este navegador y origen; no hay base de datos compartida ni multiusuario.
